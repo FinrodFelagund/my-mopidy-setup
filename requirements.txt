@@ -5,6 +5,8 @@ Mopidy-Iris==3.33.0
 Mopidy-Podcast==2.0.3
 Mopidy-Scrobbler==1.2.0
 Mopidy-Spotify==3.1.0
+Mopidy-TuneIn==0.4.1
+Mopidy-MusicBox-Webclient==2.5.0
 appdirs==1.4.3
 beautifulsoup4==4.7.1
 decorator==4.3.0
